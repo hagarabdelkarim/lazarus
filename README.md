@@ -1,2 +1,2 @@
-# lazarus ho fatto il comopiti
+# lazarus ho fatto il compiti
 indovina
