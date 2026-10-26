@@ -1,2 +1,5 @@
 # lazarus ho fatto il compiti
-indovina
+Hagar Abdelkarim
+2 INFO
+- primo-programma
+- salvadanaio
